@@ -8,7 +8,8 @@
 3) Возможно новая инпут-система
 
 Постараюсь задействовать как можно больше паттернов и правильных, с точки зрения кода, архитектурных решений.
-======================================================================================================================
+
+
 This project is my Pet project to reinforce the knowledge I have acquired. 
 Initially this project was created back in November 2022, more specifically on November 9, as a work for Siberian GameJam 2022.
 Since then, I have studied and understood a lot, and decided to complete this project, that is, redo it completely, adding what the team originally wanted, but because of my incompetence in some matters - the AI and some basic things, they have not been implemented.
