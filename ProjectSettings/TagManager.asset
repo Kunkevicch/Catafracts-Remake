@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - grid
+  - collisionTilemap
+  - minimapTilemap
+  - groundTilemap
+  - minimapPlayer
+  - playerWeapon
   layers:
   - Default
   - TransparentFX
@@ -12,16 +18,16 @@ TagManager:
   - Water
   - UI
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Camera 1
+  - Camera 2
+  - Player
+  - Minimap
+  - Wall
+  - PlayerAmmo
+  - Enemy
+  - Environment
+  - PlayerWeapon
+  - EnemyAmmo
   - 
   - 
   - 
@@ -40,4 +46,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 4046176299
+    locked: 0
+  - name: Instances
+    uniqueID: 3548533283
+    locked: 0
+  - name: Collision
+    uniqueID: 3665826033
+    locked: 0
+  - name: Minimap
+    uniqueID: 530057231
     locked: 0
